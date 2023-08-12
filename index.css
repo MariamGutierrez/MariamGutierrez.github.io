@@ -151,7 +151,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("media/portada_donacion-alimentos-covid-19.jpg");
+    ,url("media/portada_donacion-alimentos-covid-19.png");
 }
 
 .carta:nth-child(3){
@@ -301,7 +301,7 @@ footer .container{
             rgba(0,0,0,0.5),
             rgba(0,0,0,0.5)
         )
-        ,url("media/portada_donacion-alimentos-covid-19.jpg");
+        ,url("media/portada_donacion-alimentos-covid-19.png");
     }
 
     .carta:nth-child(3){
